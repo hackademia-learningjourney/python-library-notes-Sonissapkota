@@ -1,0 +1,24 @@
+1. Pandas: Pandas is a software library written in python that is mainly used in the data manipulation
+and data analysis. It offers various type sof function to manipualte and analysis of data making it 
+easier to compute complex calculation
+
+2. Numpy: Numpy is one of the popular python library especially used in the machine learning and AI. Unlike
+pandas Numpy is used for processing multidimensional array and matrices. It has wide collection of high level
+mathematical function for processing arrays and matrices.
+
+3. Tensorflow: Tensorflow is an open source library particularly used in the machine learning and neural network
+training. It was developed by google for its internal team for research and development later it was mad available 
+to open source. Tensorflow can be usde to develop various kinds of model such as image recognition, natural langugae processing
+and so on.
+
+4. Keras: Keras is a open source python library that is used mainly used for implementing neural network. It is user
+friendly, modular and extensible python library. However, currently is is integrated with tensorflow. On top of that Keras
+allows user to produce deep models on smartphone, web and Java virtual machine. 
+
+5. Sklearn: Sklearn also knonw as scikit learn is one of the most useful machine learning library written in python.
+Sklearn provides lot of powerful machine learning tools such as classification, regression, clustering and dimensonality
+reduction. 
+
+6. Pytorch: Pytorch is one of such open source python library based on torch library developed by meta. Pytorch is primarily 
+used for developing deep learning model which is mostly used in natural language processing and computer vision. The major 
+advantage of using pytorch it excels in flexibility and ease of use. 
